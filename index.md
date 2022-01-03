@@ -1,37 +1,138 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Portfolio Smart Industry</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
-You can use the [editor on GitHub](https://github.com/minorsmart/msi-smart-connection-Alinho29/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+				<!-- Intro -->
+					<div id="intro">
+						<h1>Portfolio <br />
+						Minor Smart Industry</h1>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
 
-### Markdown
+				<!-- Header -->
+					<header id="header">
+					</header>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="start.html">Smart Start</a></li>
+							<li><a href="business.html">Smart Business</a></li>
+							<li><a href="technology.html">Smart Technology</a></li>
+							<li><a href="connection.html">Smart Connection</a></li>
+							<li><a href="project.html">Smart Project</a></li>
+						</ul>
+					
+						</ul>
+					</nav>
 
-```markdown
-Syntax highlighted code block
+				<!-- Main -->
+					<div id="main">
 
-# Header 1
-## Header 2
-### Header 3
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<span class="date">Januari 12, 2022</span>
+									<h2><a href="#">Introductie<br />
+									</a></h2> Hello Smarties,
+									<p>
 
-- Bulleted
-- List
+										Mijn naam is Ali Ghaffari en ik zit momenteel in mijn laatste studiejaar van de opleiding Bedrijfskunde aan de Hogeschool van Arnhem en Nijmegen. 
+										Op dit moment volg ik met veel plezier de minor “Smart Industry”. Mijn keuze voor deze minor was snel gemaakt, want zoals bekend is de ontwikkeling van technologieën zoals Robotics , IoT  in razend tempo gegaan. Steeds meer bedrijven zullen zich in de toekomst bezig houden met Smart Industry. Momenteel is er weinig bekend over het begrip Smart Industry, omdat het onderwerp aanzienlijk nieuw is. Het lijkt mij daarom interessant om me verder te verdiepen in Smart Industry en om uiteindelijk de benodigde informatie te verzamelen over de vele verschillende technologieën binnen de Smart Industry 4.0.
+										
+										<p>Me Myself and I<p>
+											<a href="images/Ali Ghaffari.jpg">
+												<img src="images/Ali Ghaffari.jpg" width="350">
+											 </a>
+											 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+									
+									<html>
+								</ul>
+							</article>
 
-[Link](url) and ![Image](src)
-```
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										<span class="date">September 10, 2021</span>
+										<h2><a>Sprint 1</a></h2>
+									</header>
+									
+									<a href="images/imagesonderzoeksvraag.png">
+										<img src="images/imagesonderzoeksvraag.png" width="350">
+									 </a>
+									 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+									<p></p>Tijdens de eerste sprint is het de bedoeling om te leren hoe je een goede onderzoeksvraag kunt formuleren. Samen met de stakeholders is het de bedoeling om in de eerste fase te onderhandelen over de onderzoeksvraag. Uiteindelijk zal dit resulteren in een vraag die voldoet aan alle gestelde critera.</p>
+									<ul class="actions special">
+										<li><a href="sprint 1.html" class="button">Meer informatie</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">September 17, 2021</span>
+										<h2><a href="sprint 2.html">Sprint 2</a></h2>
+										
+									</header>
+									<a href="sprint 2.html" class="image fit"><img src="images/unnamed.png" alt="" /></a>
+									<p>De uitkomst van de eerste sprint is een juiste vraag waarmee men een goede basis heeft voor het onderzoek. De volgende stap is de analyse fase. De ontwerpkeuzes die men hier maakt bepalen de validiteit en betrouwbaarheid van het onderzoek. Tijdens sprint 2 is het de bedoeling om een onderzoeksmethode samen te stellen die optimaal aansluit bij de onderzoeksvraag.</p>
+									<ul class="actions special">
+										<li><a href="sprint 2.html" class="button">Meer informatie</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">September 24, 2021</span>
+										<h2><a href="sprint 3.html">Sprint 3</a></h2>
+									</header>
+									<a href="sprint 3.html" class="image fit"><img src="images/robotisering.jpeg" alt="" /></a>
+									<p>In sprint 2 is een onderzoeksmethode uitgewerkt. Tijdens de derde sprint is het de bedoeling om het onderzoek uiteindelijk uit te voeren, het eigen werk testen en leerpunten opstellen. De kennis en vaardigheden die men hiermee opdoet, gebruik men om gedurende de minor waardevol kennismateriaal over Smart Industry te ontwikkelen. Al het werk dat opgeleverd wordt, zal onder een creative commons licentie ter beschikking worden gesteld aan iedereen die geïnteresseerd is in het onderwerp. Zo helpt met onder andere het innovatievermogen van Nederland te versterken.</p>
+									<ul class="actions special">
+										<li><a href="sprint 3.html" class="button">Meer informatie</a></li>
+									</ul>
+								</article>
+								<article>
 
-### Jekyll Themes
+				
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/minorsmart/msi-smart-connection-Alinho29/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+					</div>
 
-### Support or Contact
+				<!-- Copyright -->
+				<div id="copyright">
+					<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+				</div>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+		</div>
+
+	<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.scrollex.min.js"></script>
+		<script src="assets/js/jquery.scrolly.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+
+	
+
+	</body>
+</html>
